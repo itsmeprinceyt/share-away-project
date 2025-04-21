@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     icon: "/logo/ShareAway5-png.png",
   },
   openGraph: {
-    title: "ShareAway by @ItsMe Prince",
+    title: "ShareAway Showcase",
     description: "ShareAway is a safe, open space where anyone can express their thoughts, feelings, and stories without fear of judgment.",
     url: "https://share-away-showcase.vercel.app/",
     images: [
