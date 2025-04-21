@@ -18,7 +18,8 @@ export default function Home() {
 
           <div className="flex justify-center items-center gap-5 text-center">
             <Link
-              href="/"
+              href="https://share-away-prince.vercel.app/"
+              target="_blank"
               className="bg-gradient-to-r from-pink-500 to-pink-400 text-white rounded-lg w-[150px]
             py-2 border border-pink-500 hover:scale-105 transition-all duration-300
             shadow-xl shadow-pink-500/30 hover:shadow-pink-500/50 font-extralight">
@@ -26,7 +27,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href="/"
+              href="https://share-away-showcase.vercel.app/"
               className="bg-gradient-to-r from-pink-500 to-pink-400 text-white rounded-lg w-[150px]
             py-2 border border-pink-500 hover:scale-105 transition-all duration-300
             shadow-xl shadow-pink-500/30 hover:shadow-pink-500/50 font-extralight">
@@ -37,7 +38,8 @@ export default function Home() {
 
           <div className="flex justify-center items-center gap-5 text-center">
             <Link
-              href="/"
+              href="https://github.com/itsmeprinceyt/share-away-website"
+              target="_blank"
               className="bg-gradient-to-r from-pink-500 to-pink-400 text-white rounded-lg w-[150px]
             py-2 border border-pink-500 hover:scale-105 transition-all duration-300
             shadow-xl shadow-pink-500/30 hover:shadow-pink-500/50 font-extralight">
@@ -45,7 +47,8 @@ export default function Home() {
             </Link>
 
             <Link
-              href="/"
+              href="https://github.com/itsmeprinceyt/share-away-backend"
+              target="_blank"
               className="bg-gradient-to-r from-pink-500 to-pink-400 text-white rounded-lg w-[150px]
             py-2 border border-pink-500 hover:scale-105 transition-all duration-300
             shadow-xl shadow-pink-500/30 hover:shadow-pink-500/50 font-extralight">
