@@ -56,8 +56,8 @@ export default function Home() {
 
         </div>
 
-        <div className="absolute text-xs bottom-2">Made by🩷@itsmeprinceyt [ <Link href="https://github.com/itsmeprinceyt" className="underline animate-pulse">GitHub</Link> | <Link href="https://www.youtube.com/@itsmeprinceyt" className="underline animate-pulse">YouTube</Link>
-          ]</div>
+        <div className="absolute text-xs bottom-2">Made by🩷@itsmeprinceyt [ <Link href="https://github.com/itsmeprinceyt" className="underline animate-pulse">GitHub</Link> | <Link href="https://www.youtube.com/@itsmeprinceyt" className="underline animate-pulse">YouTube</Link> ]
+          </div>
       </div>
     </PageWrapperNormal>
   );
